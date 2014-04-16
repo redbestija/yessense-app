@@ -1,0 +1,31 @@
+localhost.localdomain - - [25/Feb/2014 21:04:33] code 404, message File not found
+localhost.localdomain - - [25/Feb/2014 21:04:33] "GET /yousense/ HTTP/1.0" 404 -
+localhost.localdomain - - [25/Feb/2014 21:04:35] code 404, message File not found
+localhost.localdomain - - [25/Feb/2014 21:04:35] "GET /yousense/ HTTP/1.0" 404 -
+localhost.localdomain - - [25/Feb/2014 21:04:36] code 404, message File not found
+localhost.localdomain - - [25/Feb/2014 21:04:36] "GET /yousense/ HTTP/1.0" 404 -
+localhost.localdomain - - [25/Feb/2014 21:10:41] code 404, message File not found
+localhost.localdomain - - [25/Feb/2014 21:10:41] "GET /yousense/ HTTP/1.0" 404 -
+localhost.localdomain - - [25/Feb/2014 21:10:43] code 404, message File not found
+localhost.localdomain - - [25/Feb/2014 21:10:43] "GET /yousense/ HTTP/1.0" 404 -
+localhost.localdomain - - [25/Feb/2014 21:11:50] "GET / HTTP/1.1" 200 -
+localhost.localdomain - - [25/Feb/2014 21:12:54] code 404, message File not found
+localhost.localdomain - - [25/Feb/2014 21:12:54] "GET /yousense/ HTTP/1.1" 404 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:41] "GET / HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /css/pageslider.css HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /css/messi.css HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] code 404, message File not found
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /cordova.js HTTP/1.1" 404 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /css/new_layout_styles.css HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /js/fastclick.js HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /js/index.js HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /js/jquery-1.9.1.min.js HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /js/messi.js HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /js/pageslider.js HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /js/app.js HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /js/bootstrap.min.js HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:42] "GET /res/YouSense_Logo.png HTTP/1.1" 200 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:43] code 404, message File not found
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:43] "GET /favicon.ico HTTP/1.1" 404 -
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:43] code 404, message File not found
+cs27030197.pp.htv.fi - - [25/Feb/2014 21:13:43] "GET /js/jquery.min.map HTTP/1.1" 404 -
